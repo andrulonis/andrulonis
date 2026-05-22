@@ -3,6 +3,6 @@ Co-operative, quickly adaptive, well-organised, attentive to details and energet
 
 # Most developed Skills/Technologies
 - Front-End (React.js + TypeScript)
-- Back-End (Java)
+- Back-End (Java with Hibernate / Python with FastAPI)
 - Databases (PostgreSQL)
 - Side projects (Python)
